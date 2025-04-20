@@ -2486,6 +2486,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 115.57) (xy 127 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fced4ad-6d30-4bd9-b66b-39f168000022")
+	)
+	(wire
+		(pts
 			(xy 177.8 115.57) (xy 210.82 115.57)
 		)
 		(stroke
@@ -2524,16 +2534,6 @@
 			(type default)
 		)
 		(uuid "260c816b-7272-4dbc-aefd-4d6c0a28673d")
-	)
-	(wire
-		(pts
-			(xy 114.3 107.95) (xy 114.3 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2655abe1-6dbb-4a30-a6a0-996780fb603c")
 	)
 	(wire
 		(pts
@@ -2781,7 +2781,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 107.95) (xy 114.3 107.95)
+			(xy 92.71 107.95) (xy 121.92 107.95)
 		)
 		(stroke
 			(width 0)
@@ -2853,16 +2853,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 87.63) (xy 127 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e1e26ea-39dc-40b3-ba29-210f82a26af7")
-	)
-	(wire
-		(pts
 			(xy 185.42 92.71) (xy 185.42 107.95)
 		)
 		(stroke
@@ -2870,16 +2860,6 @@
 			(type default)
 		)
 		(uuid "7e2475d7-ae08-40f5-9c17-d223eb70bc3d")
-	)
-	(wire
-		(pts
-			(xy 120.65 130.81) (xy 120.65 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7ee86e66-cff2-4768-b505-4408317c742c")
 	)
 	(wire
 		(pts
@@ -2920,6 +2900,16 @@
 			(type default)
 		)
 		(uuid "8976c8be-91e6-4882-b68f-278cc6c88a80")
+	)
+	(wire
+		(pts
+			(xy 120.65 130.81) (xy 120.65 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d11d373-ef87-4123-b67e-f6f3cb776c4b")
 	)
 	(wire
 		(pts
@@ -2970,6 +2960,16 @@
 			(type default)
 		)
 		(uuid "9c445e30-88b8-4018-a39d-7268ea4ef517")
+	)
+	(wire
+		(pts
+			(xy 121.92 107.95) (xy 121.92 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c8c2285-a791-49a2-bd1b-1306a3b0b631")
 	)
 	(wire
 		(pts
@@ -3034,13 +3034,13 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 85.09) (xy 127 85.09)
+			(xy 121.92 113.03) (xy 127 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d14ffd0c-8ce9-47b6-a37a-891e3afcf12e")
+		(uuid "c6ce8d33-2998-4d95-b5ac-fd349b466613")
 	)
 	(wire
 		(pts
