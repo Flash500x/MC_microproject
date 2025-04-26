@@ -1,3 +1,10 @@
+;|------------------------
+;CODE DEVELOPED AND IMPLEMENTED ON KEIL UVISION AND PROGISP
+;AUTHOR:ABIN S MANOJ
+;CO-AUTHORED BY Aditya Arun & Abhishek D.
+;DATE:25/4/25 11:20:48
+;|------------------------
+
 ORG 00H
 MOV 30H, #00H
 CALL LCDInitDisplay
